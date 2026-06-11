@@ -177,7 +177,8 @@ def main():
                 find_job(professions)
             case "6":
                 statistical_job(difference_index)
-            
+            case "8":
+                break
             case _:
                 print("Lựa chọn không hợp lệ")
 main()
